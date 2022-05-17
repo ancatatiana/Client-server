@@ -1,0 +1,14 @@
+D:\TCPClient\TCPClient\bin\Debug\TCPClient.exe.config
+D:\TCPClient\TCPClient\bin\Debug\TCPClient.exe
+D:\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+D:\TCPClient\TCPClient\obj\Debug\TCPClient.Form1.resources
+D:\TCPClient\TCPClient\obj\Debug\TCPClient.Properties.Resources.resources
+D:\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.GenerateResource.cache
+D:\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\TCPClient\TCPClient\obj\Debug\TCPClient.exe
+D:\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+D:\TCPClient\TCPClient\bin\Debug\SuperSimpleTcp.dll
+D:\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CopyComplete
+D:\TCPClient\TCPClient\bin\Debug\System.ValueTuple.dll
+D:\TCPClient\TCPClient\bin\Debug\System.ValueTuple.xml
+D:\TCPClient\TCPClient\obj\Debug\TCPClient.csprojAssemblyReference.cache

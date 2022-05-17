@@ -1,0 +1,12 @@
+D:\TCPServer\bin\Debug\TCPServer.exe.config
+D:\TCPServer\bin\Debug\TCPServer.exe
+D:\TCPServer\bin\Debug\TCPServer.pdb
+D:\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+D:\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+D:\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.cache
+D:\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache
+D:\TCPServer\obj\Debug\TCPServer.exe
+D:\TCPServer\obj\Debug\TCPServer.pdb
+D:\TCPServer\bin\Debug\SuperSimpleTcp.dll
+D:\TCPServer\obj\Debug\TCPServer.Form1.resources
+D:\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
